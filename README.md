@@ -1,7 +1,5 @@
 # Khóa học PHP cơ bản
 
-[![Build Status](https://travis-ci.org/daynhauhoc/phpcoban.svg?branch=master)](https://travis-ci.org/daynhauhoc/phpcoban)
-
 ## Đối tượng học
 
 Dành cho các bạn đam mê về web và muốn tạo ra một trang web động
